@@ -4,7 +4,7 @@
 ## 🛠️ Technologies utilisées
 ### HTML5
 
-### CSS3 (avec Bootstrap 5)
+ CSS3 (avec Bootstrap 5)
 
 ### JavaScript Vanilla
 
